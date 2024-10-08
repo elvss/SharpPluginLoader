@@ -24,7 +24,7 @@ For more detailed instructions visit the [wiki](https://fexty12573.github.io/Sha
 1. Install the Visual Studio 2022 17.8 Preview 2 or later.
 2. Create a new **.NET 8.0** class library project and add a reference to the `SharpPluginLoader.Core` NuGet package. 
 3. Create a class that implements the `SharpPluginLoader.Core.IPlugin` interface.
-4. Put the compiled assembly into `nativePC/plugins/CSharp`. Assemblies are also allowed to be in subdirectories.
+4. Put the compiled assembly into `nativePC/plugins/CSharp`. Assemblies are also allowed to be in subdirectories. s
 
 ## Framework Development (with Visual Studio 2022)
 1. Clone the repository with submodules:
